@@ -58,5 +58,5 @@ The main advantages of Builder Pattern are as follows:
 * It supports to change the internal representation of objects.
 
 ### Information Source
-Information and ocding example taken from [here](https://www.javatpoint.com/design-patterns-in-java) and 
+Information and coding examples taken from [here](https://www.javatpoint.com/design-patterns-in-java) and 
 [here](https://www.tutorialspoint.com/design_pattern/index.htm)
